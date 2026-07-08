@@ -1,16 +1,52 @@
-## Hi there 👋
+### Hi there, I'm Prashant Kale 👋
 
-<!--
-**PrashantK4747/PrashantK4747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech Computer Science student (2026 batch) and a curious builder who enjoys turning ideas into working applications — from desktop tools to AI-powered chatbots.
 
-Here are some ideas to get you started:
+### 🛠️ My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+
+
+
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+
+
+
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+
+
+
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+
+
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+
+
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+
+
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+
+
+### 📊 My GitHub Stats
+
+
+
+![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrashantK4747&show_icons=true&theme=dark)
+
+
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantK4747&layout=compact&theme=dark)
