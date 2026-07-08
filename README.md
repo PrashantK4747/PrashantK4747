@@ -1,52 +1,22 @@
 ### Hi there, I'm Prashant Kale 👋
 
-I'm a Enthusiastic Computer Science and Engineering student with a strong interest in modern technology, community service, and continuous learning.
+I'm an enthusiastic Computer Science and Engineering student with a strong interest in modern technology, community service, and continuous learning.
 
 ### 🛠️ My Tech Stack
 
-
-
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-
-
-
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-
-
-
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-
-
-
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-
-
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-
-
-
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
-
-
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ### 📊 My GitHub Stats
 
-
-
-![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrashantK4747&show_icons=true&theme=dark)
-
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantK4747&layout=compact&theme=dark)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrashantK4747&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantK4747&layout=compact&theme=radical" height="165" />
+</p>
