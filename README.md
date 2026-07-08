@@ -1,6 +1,6 @@
 ### Hi there, I'm Prashant Kale 👋
 
-I'm a B.Tech Computer Science student (2026 batch) and a curious builder who enjoys turning ideas into working applications — from desktop tools to AI-powered chatbots.
+I'm a Enthusiastic Computer Science and Engineering student with a strong interest in modern technology, community service, and continuous learning.
 
 ### 🛠️ My Tech Stack
 
