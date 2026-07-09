@@ -1,6 +1,6 @@
 ### Hi there, I'm Prashant Kale 👋
 
-I'm an enthusiastic Computer Science and Engineering student with a strong interest in modern technology, community service, and continuous learning.
+Enthusiastic Computer Science and Engineering student with a strong interest in modern technology, community service, and continuous learning. Passionate about applying technical skills to real-world projects while contributing to community-driven initiatives. Proactive in collaborating with diverse individuals, sharing ideas, and participating in community activities.
 
 ### 🛠️ My Tech Stack
 
