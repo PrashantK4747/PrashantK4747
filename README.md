@@ -57,37 +57,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🛡️ VisionGuard</h4>
-      <p><i>Python · FastAPI · React · PostgreSQL · OpenCV · TensorFlow</i></p>
-      AI-powered surveillance system with face recognition, license plate recognition, and suspicious activity detection, backed by a scalable monitoring dashboard.
-    </td>
-    <td width="50%">
-      <h4>🎵 EmoTune (Infosys Springboard)</h4>
-      <p><i>Python · OpenCV · Streamlit · PostgreSQL · Jamendo API</i></p>
-      Real-time facial emotion recognition system that recommends personalized playlists based on detected mood. Led as Team Leader.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>🔗 Legacy Link</h4>
-      <p><i>Node.js · JavaScript · PostgreSQL · HTML · CSS</i></p>
-      Alumni–student networking platform with secure auth, role-based access control, and a normalized relational database schema.
-    </td>
-    <td width="50%">
-      <h4>☁️ WeatherTracer</h4>
-      <p><i>Java</i></p>
-      Java-based weather forecast desktop application using the OpenWeatherMap API.
-    </td>
-  </tr>
-</table>
-
----
-
 ### 💼 Experience
 
 **AI Intern — Infosys Springboard** · *Oct 2025 – Dec 2025*
@@ -111,13 +80,6 @@ Built EmoTune end-to-end, leading a team while developing core features and inte
 - **Student Coordinator**, NSS (National Service Scheme) — *Oct 2023 – May 2025*
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrashantK4747&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashantK4747&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantK4747&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
