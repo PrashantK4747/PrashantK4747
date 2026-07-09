@@ -82,11 +82,5 @@ Built EmoTune end-to-end, leading a team while developing core features and inte
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantK4747&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
-<p align="center">
   📍 Sangli, Maharashtra &nbsp;|&nbsp; 📧 prashantk4747@gmail.com &nbsp;|&nbsp; 🎓 CSE @ TKIET, Kolhapur (2022–2026)
 </p>
