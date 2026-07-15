@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Prashant Kale 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;AI+%2F+ML+Enthusiast;Cloud+%2F+Enthusiast;Full+Stack+%7C+Java+%26+Python+Developer;Building+VisionGuard+%7C+EmoTune+%7C+Legacy+Link" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;AI+%2F+ML+Enthusiast;Cloud+Enthusiast ☁️;Full+Stack+%7C+Java+%26+Python+Developer;Building+VisionGuard+%7C+EmoTune+%7C+Legacy+Link" alt="Typing SVG" />
 </p>
 
 <p align="center">
